@@ -328,5 +328,15 @@
     "image": "jugo_sunchy_manzana.png",
     "desc": "Jugo de manzana de 334 ml. Venta por caja de 24 latas.",
     "details": "VENTA MAYORISTA · Caja de 24 latas · Factura · Envío gratis"
-  }
+  },
+  {
+    "id": "arrocera-eko-negra-18l",
+    "name": "Olla arrocera EKO negra de 1,8 L",
+    "category": "Electrodomésticos",
+    "usd": 30,
+    "cup": 25500,
+    "image": "arrocera negra .jpg",
+    "desc": "Arroz perfecto, sin complicaciones.",
+    "details": "Garantía de 6 meses"
+   } 
 ]
