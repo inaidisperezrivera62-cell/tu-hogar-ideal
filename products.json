@@ -1,15 +1,5 @@
 [
   {
-    "id": "panel-longi",
-    "name": "Panel Solar Bifacial Longi 610 W",
-    "category": "Energía solar",
-    "usd": 200,
-    "cup": 170000,
-    "image": "producto_29.jpg",
-    "desc": "Panel bifacial de alta eficiencia. Dimensiones indicadas: 2382 × 1134 × 30 mm.",
-    "details": "Factura · Envío gratis"
-  },
-  {
     "id": "tejas-zinc",
     "name": "Tejas de Zinc Onduladas Galvanizadas",
     "category": "Ventas Mayoristas",
