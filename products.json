@@ -100,16 +100,6 @@
     "details": "Garantía de 6 meses · Factura · Propiedad · Envío gratis"
   },
   {
-    "id": "vajilla-linea",
-    "name": "Set de Vajilla de Porcelana con Línea · 16 piezas",
-    "category": "Utensilios de cocina",
-    "usd": 32,
-    "cup": 28800,
-    "image": "vajilla_linea.jpg",
-    "desc": "Set de vajilla de porcelana con línea marca EÒN.",
-    "details": "16 piezas · Factura"
-  },
-  {
     "id": "cafetera-roja3",
     "name": "Cafetera Eléctrica EÒN · 3 tazas · Roja",
     "category": "Electrodomésticos",
