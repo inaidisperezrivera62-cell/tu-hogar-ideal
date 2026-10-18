@@ -4,7 +4,7 @@
     "name": "Tejas de Zinc Onduladas Galvanizadas",
     "category": "Ventas Mayoristas",
     "usd": 12,
-    "cup": 10200,
+    "cup": 10800,
     "image": "producto_30.jpg",
     "desc": "Acero galvanizado · 3650 × 820 × 0,17 mm. Venta mayorista: mínimo 20 unidades.",
     "details": "VENTA MAYORISTA · Mínimo 20 unidades · Sin mensajería"
@@ -14,7 +14,7 @@
     "name": "Mortadela de Pollo Especial · 340 g",
     "category": "Ventas Mayoristas",
     "usd": 40,
-    "cup": 34000,
+    "cup": 36000,
     "image": "producto_31.jpg",
     "desc": "Caja de 24 latas. Ideal para sándwiches, ensaladas y pastas.",
     "details": "VENTA MAYORISTA · Caja de 24 latas · Factura · Vencimiento indicado: 12/29"
@@ -24,7 +24,7 @@
     "name": "Pasta de Tomate Delizio · 400 g",
     "category": "Ventas Mayoristas",
     "usd": 22,
-    "cup": 18700,
+    "cup": 19800,
     "image": "producto_32.jpg",
     "desc": "Caja de 24 latas de 400 g.",
     "details": "VENTA MAYORISTA · Caja de 24 latas · Factura · Vencimiento indicado: 05/28"
@@ -34,7 +34,7 @@
     "name": "Cocina de Kerosene EKO",
     "category": "Cocina",
     "usd": 22,
-    "cup": 18700,
+    "cup": 19800,
     "image": "producto_33.jpg",
     "desc": "10 mechas, llama azul eficiente, fácil de operar y ahorro de kerosene.",
     "details": "Garantía de 3 meses · Factura · Propiedad · Envío gratis"
@@ -44,7 +44,7 @@
     "name": "Smart TV EKO de 55 pulgadas",
     "category": "Televisores",
     "usd": 500,
-    "cup": 425000,
+    "cup": 450000,
     "image": "producto_34.jpg",
     "desc": "Resolución 4K, LED TV, USB y caja decodificadora incluida.",
     "details": "Garantía de 6 meses · Factura · Propiedad · Envío gratis"
@@ -54,7 +54,7 @@
     "name": "Smart TV EKO de 50 pulgadas",
     "category": "Televisores",
     "usd": 445,
-    "cup": 378250,
+    "cup": 400500,
     "image": "producto_35.jpg",
     "desc": "Smart TV 4K, LED TV, USB y caja decodificadora incluida.",
     "details": "Garantía de 6 meses · Factura · Propiedad · Incluye soporte fijo"
@@ -64,7 +64,7 @@
     "name": "Smart TV EKO de 32 pulgadas",
     "category": "Televisores",
     "usd": 220,
-    "cup": 187000,
+    "cup": 198000,
     "image": "producto_36.jpg",
     "desc": "Full HD, caja decodificadora interna y regulador de voltaje incluido.",
     "details": "Garantía de 6 meses · Factura · Propiedad · Envío gratis"
@@ -74,7 +74,7 @@
     "name": "Smart TV EKO de 43 pulgadas",
     "category": "Televisores",
     "usd": 310,
-    "cup": 263500,
+    "cup": 279000,
     "image": "producto_37.jpg",
     "desc": "Full HD, caja decodificadora interna y regulador de voltaje incluido.",
     "details": "Garantía de 6 meses · Factura · Propiedad · Envío gratis"
@@ -84,7 +84,7 @@
     "name": "Colchón Matrimonial EKO",
     "category": "Colchones",
     "usd": 175,
-    "cup": 148750,
+    "cup": 157500,
     "image": "producto_38.jpg",
     "desc": "Colchón matrimonial con tela blanca y espuma suave.",
     "details": "Medidas indicadas: 137 × 190 × 20 cm · Garantía de 6 meses · Factura · Propiedad"
@@ -94,7 +94,7 @@
     "name": "Colchón Matrimonial EÒN 137 × 190 × 22 cm",
     "category": "Colchones",
     "usd": 190,
-    "cup": 161500,
+    "cup": 171000,
     "image": "producto_39.jpg",
     "desc": "Colchón matrimonial de 137 cm de ancho, 190 cm de largo y 22 cm de alto.",
     "details": "Garantía de 6 meses · Factura · Propiedad · Envío gratis"
@@ -104,7 +104,7 @@
     "name": "Set de Vajilla de Porcelana Blanco · 16 piezas",
     "category": "Utensilios de cocina",
     "usd": 32,
-    "cup": 27200,
+    "cup": 28800,
     "image": "vajilla_blanca.jpg",
     "desc": "Set de vajilla de porcelana blanca marca EÒN.",
     "details": "16 piezas · Factura"
@@ -114,7 +114,7 @@
     "name": "Set de Vajilla de Porcelana Floreado · 16 piezas",
     "category": "Utensilios de cocina",
     "usd": 32,
-    "cup": 27200,
+    "cup": 28800,
     "image": "vajilla_floreada.jpg",
     "desc": "Set de vajilla de porcelana con diseño floreado marca EÒN.",
     "details": "16 piezas · Factura"
@@ -124,7 +124,7 @@
     "name": "Set de Vajilla de Porcelana con Línea · 16 piezas",
     "category": "Utensilios de cocina",
     "usd": 32,
-    "cup": 27200,
+    "cup": 28800,
     "image": "vajilla_linea.jpg",
     "desc": "Set de vajilla de porcelana con línea marca EÒN.",
     "details": "16 piezas · Factura"
@@ -134,7 +134,7 @@
     "name": "Cafetera Eléctrica EÒN · 3 tazas · Gris",
     "category": "Electrodomésticos",
     "usd": 32,
-    "cup": 27200,
+    "cup": 28800,
     "image": "cafetera_gris_3.jpg",
     "desc": "Capacidad de 150 ml. Asa fría al tacto, base giratoria e indicador luminoso.",
     "details": "550 W · 110 V / 60 Hz · Garantía de 6 meses · Factura · Propiedad"
@@ -144,7 +144,7 @@
     "name": "Cafetera Eléctrica EÒN · 3 tazas · Roja",
     "category": "Electrodomésticos",
     "usd": 32,
-    "cup": 27200,
+    "cup": 28800,
     "image": "cafetera_roja_3.jpg",
     "desc": "Capacidad de 150 ml. Diseño compacto para el uso diario.",
     "details": "Garantía de 6 meses · Factura · Propiedad"
@@ -154,7 +154,7 @@
     "name": "Cafetera Eléctrica EÒN · 6 tazas · Roja",
     "category": "Electrodomésticos",
     "usd": 42,
-    "cup": 35700,
+    "cup": 37800,
     "image": "cafetera_roja_6.jpg",
     "desc": "Capacidad de 300 ml.",
     "details": "Garantía de 6 meses · Factura · Propiedad"
@@ -164,7 +164,7 @@
     "name": "Cafetera Eléctrica EÒN · 6 tazas · Gris",
     "category": "Electrodomésticos",
     "usd": 42,
-    "cup": 32700,
+    "cup": 37800,
     "image": "cafetera_gris_6.jpg",
     "desc": "Capacidad de 300 ml.",
     "details": "Garantía de 6 meses · Factura · Propiedad"
@@ -224,7 +224,7 @@
     "name": "Batería LiFePO4 EÒN · 1280 Wh · 100 Ah",
     "category": "Energía solar",
     "usd": 500,
-    "cup": 425000,
+    "cup": 450000,
     "image": "bateria_lifepo4.jpg",
     "desc": "Batería de 12,8 V con un puerto externo. Capacidad indicada: 100 Ah.",
     "details": "Garantía de 1 año · Factura · Propiedad"
@@ -234,7 +234,7 @@
     "name": "Split EKO de 2 toneladas con montaje",
     "category": "Climatización",
     "usd": 670,
-    "cup": 569500,
+    "cup": 603000,
     "image": "split_2_toneladas.jpg",
     "desc": "Equipo split de 2 toneladas con montaje incluido.",
     "details": "Garantía de 2 años · Envío gratis · Regulador de voltaje · Base para fijar el split"
@@ -244,7 +244,7 @@
     "name": "Combo Cocina Híbrida con Horno + Juego de Calderos · 5 piezas",
     "category": "Combos y ofertas",
     "usd": 325,
-    "cup": 276250,
+    "cup": 292500,
     "image": "combo_cocina_hibrida_calderos.jpg",
     "desc": "Combo de cocina híbrida con horno y juego de calderos de 5 piezas.",
     "details": "Garantía de 6 meses · Factura · Garantía · Propiedad · Envío gratis"
@@ -254,7 +254,7 @@
     "name": "Combo Cocina Vitrocerámica de 1 hornilla + Juego de Calderos · 5 piezas",
     "category": "Combos y ofertas",
     "usd": 48,
-    "cup": 40800,
+    "cup": 43200,
     "image": "combo_vitroceramica_calderos.jpg",
     "desc": "Combo de cocina vitrocerámica de una hornilla con juego de calderos de 5 piezas.",
     "details": "Garantía de 6 meses · Factura · Garantía · Propiedad · Envío gratis"
@@ -264,7 +264,7 @@
     "name": "Combo Cocina de Inducción de 2 hornillas + Juego de Calderos · 5 piezas",
     "category": "Combos y ofertas",
     "usd": 120,
-    "cup": 102000,
+    "cup": 108000,
     "image": "combo_induccion_2_hornillas.png",
     "desc": "Cocina de inducción de 2 hornillas con juego de calderos de aluminio de 5 piezas.",
     "details": "Garantía de 6 meses · Factura · Garantía · Propiedad · Envío gratis"
@@ -274,7 +274,7 @@
     "name": "Combo Cocina Infrarroja de 1 hornilla + Juego de Calderos · 5 piezas",
     "category": "Combos y ofertas",
     "usd": 65,
-    "cup": 55250,
+    "cup": 58500,
     "image": "combo_infrarrojo_1_hornilla.png",
     "desc": "Cocina infrarroja de una hornilla con juego de calderos de aluminio de 5 piezas.",
     "details": "Garantía de 6 meses · Factura · Garantía · Propiedad · Envío gratis"
@@ -284,7 +284,7 @@
     "name": "Combo Cocina de Inducción de 1 hornilla + Juego de Calderos · 5 piezas",
     "category": "Combos y ofertas",
     "usd": 75,
-    "cup": 63750,
+    "cup": 67500,
     "image": "combo_induccion_1_hornilla.png",
     "desc": "Cocina de inducción de una hornilla con juego de calderos de aluminio de 5 piezas.",
     "details": "Garantía de 6 meses · Factura · Garantía · Propiedad · Envío gratis"
@@ -294,7 +294,7 @@
     "name": "Jugo Sunchy de Plátano · 334 ml",
     "category": "Ventas Mayoristas",
     "usd": 20,
-    "cup": 17000,
+    "cup": 18000,
     "image": "jugo_sunchy_platano.png",
     "desc": "Néctar de plátano de 334 ml. Venta por caja de 24 latas.",
     "details": "VENTA MAYORISTA · Caja de 24 latas · Factura · Envío gratis"
@@ -304,7 +304,7 @@
     "name": "Jugo Sunchy de Guayaba · 334 ml",
     "category": "Ventas Mayoristas",
     "usd": 20,
-    "cup": 17000,
+    "cup": 18000,
     "image": "jugo_sunchy_guayaba.png",
     "desc": "Néctar de guayaba de 334 ml. Venta por caja de 24 latas.",
     "details": "VENTA MAYORISTA · Caja de 24 latas · Factura · Envío gratis"
@@ -314,7 +314,7 @@
     "name": "Jugo Sunchy de Manzana · 334 ml",
     "category": "Ventas Mayoristas",
     "usd": 20,
-    "cup": 17000,
+    "cup": 18000,
     "image": "jugo_sunchy_manzana.png",
     "desc": "Jugo de manzana de 334 ml. Venta por caja de 24 latas.",
     "details": "VENTA MAYORISTA · Caja de 24 latas · Factura · Envío gratis"
@@ -324,9 +324,9 @@
     "name": "Olla arrocera EKO negra de 1,8 L",
     "category": "Electrodomésticos",
     "usd": 30,
-    "cup": 25500,
+    "cup": 27000,
     "image": "arrocerra negra .jpg",
     "desc": "Arroz perfecto, sin complicaciones.",
     "details": "Garantía de 6 meses"
-   } 
+  }
 ]
