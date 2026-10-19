@@ -44,7 +44,7 @@ chips.addEventListener('click',e=>{const s=e.target.closest('[data-x]')});grid.a
   if (!r.ok) throw new Error('Error al cargar productos: ' + r.status);
   return r.json();
 })
-then(data => {
+.then(data => {
   products = data;
   cats = ['Todos', ...new Set(products.map(p => p.category).filter(Boolean))];
   renderChips();
