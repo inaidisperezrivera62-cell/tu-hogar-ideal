@@ -35,5 +35,23 @@ function render(){const q=search.value.trim().toLocaleLowerCase('es');const list
 function byId(id){return products.find(p=>p.id===id)}
 async function share(p){const text=productText(p);const url=`https://wa.me/?text=${encodeURIComponent(text)}`;if(navigator.share){try{await navigator.share({title:p.name,text});return}catch(e){if(e.name==='AbortError')return}}window.open(url,'_blank','noopener')}
 async function copy(p){const text=productText(p);try{await navigator.clipboard.writeText(text);toast('Texto del producto copiado')}catch(e){const ta=document.createElement('textarea');ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();toast('Texto del producto copiado')}}
-chips.addEventListener('click',e=>{const s=e.target.closest('[data-x]')});grid.addEventListener('click',e=>{const s=e.target.closest('[data-share]'),c=e.target.closest('[data-copy]');if(s)share(byId(s.dataset.share));if(c)copy(byId(c.dataset.copy))});search.addEventListener('input',render);document.getElementById('shareCatalog').onclick=()=>{const text='TU HOGAR IDEAL\nCatálogo de productos con precios en USD y CUP/MN.\nEscríbenos para consultar disponibilidad.\nhttps://wa.me/5355050691';window.open(`https://wa.me/?text=${encodeURIComponent(text)}`,'_blank','noopener')};fetch('products.json').then(r=>{if(!r.ok)throw new Error('No se pudo cargar products.json');return r.json()}).then(data=>{products=data;renderChips();render()}).catch(()=>{document.getElementById('grid').innerHTML='<p style="padding:20px">No se pudo cargar el catálogo. Comprueba que products.json esté publicado junto a index.html.</p>'});
+chips.addEventListener('click',e=>{const s=e.target.closest('[data-x]')});grid.addEventListener('click',e=>{const s=e.target.closest('[data-share]'),c=e.target.closest('[data-copy]');if(s)share(byId(s.dataset.share));if(c)copy(byId(c.dataset.copy))});search.addEventListener('input',render);document.getElementById('shareCatalog').onclick=()=>{const text='TU HOGAR IDEAL\nCatálogo de productos con precios en USD y CUP/MN.\nEscríbenos para consultar disponibilidad.\nhttps://wa.me/5355050691';window.open(`https://wa.me/?text=${encodeURIComponent(text)}`,'_blank','noopener')};fetch('https://fyxrvajnmqcwuucvkksk.supabase.co/rest/v1/products?select=*', {
+  headers: {
+    apikey: 'sb_publishable_OsfVZTFst-CV1aHwhsf_Yw_Y3Xicikt'
+  }
+})
+.then(r => {
+  if (!r.ok) throw new Error('Error al cargar productos: ' + r.status);
+  return r.json();
+})
+.then(data => {
+  products = data;
+  renderChips();
+  render();
+})
+.catch(error => {
+  console.error(error);
+  document.getElementById('grid').innerHTML =
+    '<p style="padding:20px">No se pudo cargar el catálogo. Comprueba la conexión con Supabase.</p>';
+});
 </script></body></html>
