@@ -25,7 +25,7 @@
 <script>
 let products = [];
 
-const cats=['Todos',...new Set(products.map(p=>p.category))];let active='Todos';
+let cats=['Todos'];let active='Todos';
 const fmt=n=>Number(n).toLocaleString('es-ES');
 const grid=document.getElementById('grid'),chips=document.getElementById('chips'),search=document.getElementById('search');
 function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.style.display='block';clearTimeout(window._toastTimer);window._toastTimer=setTimeout(()=>t.style.display='none',2200)}
@@ -45,7 +45,7 @@ chips.addEventListener('click',e=>{const s=e.target.closest('[data-x]')});grid.a
   return r.json();
 })
 .then(data => {
-  products = data;
+  cats = ['Todos', ...new Set(products.map(p => p.category))];
   renderChips();
   render();
 })
